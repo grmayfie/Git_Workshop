@@ -1,4 +1,6 @@
 
 Hello! This is a test page. 
 
-The Sun is a mass of incandescent gas, a gigantic nuclear furnace. 
+The Sun is a mass of incandescent gas, a gigantic nuclear furnace...
+
+...where hydrogen is made into helium at a temperature of millions of degrees. 
